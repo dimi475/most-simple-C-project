@@ -1,0 +1,10 @@
+ paragon
+ bread - 3 X 1.20
+ VAT - 0.23
+ price without VAT - 3.60
+ price with VAT - 0.83
+ pay by card - 544327423
+ pause
+--------------------------------
+Process exited after 0.01623 seconds with return value 0
+Press any key to continue . . .
